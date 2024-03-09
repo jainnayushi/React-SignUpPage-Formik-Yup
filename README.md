@@ -1,3 +1,11 @@
+<img width="956" alt="1" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/e72d61a5-b7ac-4a8e-8e9a-38001e73ebb8">
+<img width="911" alt="image" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/e59c2c17-71d9-4762-bfbd-11b1fc03d795">
+<img width="941" alt="3" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/657a6877-ebe3-45b0-9265-b1c82bf5f12d">
+<img width="952" alt="4" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/3347817e-a897-4199-a350-5577531e5bf0">
+<img width="951" alt="5" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/2f0ff140-cdb8-430c-a03d-a71bfc4ad058">
+<img width="941" alt="2" src="https://github.com/jainnayushi/React-SignUpPage-Formik-Yup/assets/64698800/2d2c2b50-5d95-4758-8b18-07869838f0a1">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
